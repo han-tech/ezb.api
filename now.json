@@ -2,13 +2,13 @@
   "version": 2,
   "build": {
     "env": {
-      "AUTH0_DOMAIN": "@auth0-domain",
-      "AUTH0_CLIENT_ID": "@auth0-client-id",
-      "AUTH0_CLIENT_SECRET": "@auth0-client-secret",
-      "REDIRECT_URI": "https://nextjs-auth0-hasura.vgrafe.now.sh/api/callback",
-      "POST_LOGOUT_REDIRECT_URI": "https://nextjs-auth0-hasura.vgrafe.now.sh/",
-      "SESSION_COOKIE_SECRET": "@session-cookie-secret",
-      "HASURA_GRAPHQL_URL": "@hasura-graphql-url",
+      "AUTH0_DOMAIN": "hantech.auth0.com",
+      "AUTH0_CLIENT_ID": "dfpo4JYUkpqRtEjCNB3MmjARYkxwhDp3",
+      "AUTH0_CLIENT_SECRET": "_-h69waYjLu0LLCyA9rmjPq7nBdyD5sPwUasxJs6qutLxzhzgPxld2IS2CtuqfsH",
+      "REDIRECT_URI": "https://nextjs-auth0-hasura.hantech.now.sh/api/callback",
+      "POST_LOGOUT_REDIRECT_URI": "https://nextjs-auth0-hasura.hantech.now.sh/",
+      "SESSION_COOKIE_SECRET": "abcd1234",
+      "HASURA_GRAPHQL_URL": "https://absdf352.herokuapp.com/v1/graphql",
       "SECURE_COOKIE": "true"
     }
   }
